@@ -19,7 +19,7 @@ int distances(vector<int> list1, vector<int> list2) {
 
   return inner_product(
         list1.begin(), list1.end(), list2.begin(), 0,
-        std::plus<>(), [](int a, int b) { return std::abs(a - b); }
+        plus<>(), [](int a, int b) { return abs(a - b); }
   );
 }
 

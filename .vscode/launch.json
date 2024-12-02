@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Ishan Mukherjee/Documents/School/2024AdventOfCode/HistorianHysteria",
-      "program": "c:/Users/Ishan Mukherjee/Documents/School/2024AdventOfCode/HistorianHysteria/build/Debug/outDebug",
+      "cwd": "c:/Users/Ishan Mukherjee/Documents/School/2024AdventOfCode/2-RedNosedReports",
+      "program": "c:/Users/Ishan Mukherjee/Documents/School/2024AdventOfCode/2-RedNosedReports/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
