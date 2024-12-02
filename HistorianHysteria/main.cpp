@@ -1,13 +1,16 @@
 #include <iostream>
 #include <fstream>
+
 #include <vector>
+#include <unordered_set>
+
 #include <algorithm>
 #include <numeric>
 #include <cmath>
+
 #include <stdio.h>
 #include <stdlib.h>
-// #include <unordered_map>
-#include <unordered_set>
+
 using namespace std;
 
 int distances(vector<int> list1, vector<int> list2) {
@@ -34,7 +37,7 @@ int similarityScore(vector<int> list1, vector<int> list2) {
 }
 
 int main(int argc, char *argv[]) {
-  std::ifstream input("input.txt");
+  ifstream input("input.txt");
  
   vector<int> list1, list2;
   int num1, num2;
