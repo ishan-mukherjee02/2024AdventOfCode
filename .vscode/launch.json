@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Ishan Mukherjee/Documents/School/2024AdventOfCode/2-RedNosedReports",
-      "program": "c:/Users/Ishan Mukherjee/Documents/School/2024AdventOfCode/2-RedNosedReports/build/Debug/outDebug",
+      "cwd": "c:/Users/Ishan Mukherjee/Documents/School/2024AdventOfCode/3-MullItOver",
+      "program": "c:/Users/Ishan Mukherjee/Documents/School/2024AdventOfCode/3-MullItOver/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
@@ -17,7 +17,12 @@
           "description": "Enable pretty-printing for gdb",
           "text": "-enable-pretty-printing",
           "ignoreFailures": true
-        }
+        },
+        {
+          "description": "Set Disassembly Flavor to Intel",
+          "text": "-gdb-set disassembly-flavor intel",
+          "ignoreFailures": true
+      }
       ]
     }
   ]
