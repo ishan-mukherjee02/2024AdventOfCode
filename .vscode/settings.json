@@ -14,7 +14,6 @@
     "-Wformat=2",
     "-Wcast-align",
     "-Wconversion",
-    "-Wsign-conversion",
     "-Wnull-dereference"
   ],
   "C_Cpp_Runner.msvcWarnings": [
@@ -37,7 +36,9 @@
   "C_Cpp_Runner.warningsAsError": false,
   "C_Cpp_Runner.compilerArgs": [],
   "C_Cpp_Runner.linkerArgs": [],
-  "C_Cpp_Runner.includePaths": [],
+  "C_Cpp_Runner.includePaths": [
+    "C:\\boost_1_86_0"
+  ],
   "C_Cpp_Runner.includeSearch": [
     "*",
     "**/*"
@@ -110,6 +111,7 @@
     "shared_mutex": "cpp",
     "stdexcept": "cpp",
     "streambuf": "cpp",
-    "typeinfo": "cpp"
+    "typeinfo": "cpp",
+    "set": "cpp"
   }
 }

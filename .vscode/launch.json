@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Ishan Mukherjee/Documents/School/2024AdventOfCode/4-CeresSearch",
-      "program": "c:/Users/Ishan Mukherjee/Documents/School/2024AdventOfCode/4-CeresSearch/build/Debug/outDebug",
+      "cwd": "c:/Users/Ishan Mukherjee/Documents/School/2024AdventOfCode/5-PrintQueue",
+      "program": "c:/Users/Ishan Mukherjee/Documents/School/2024AdventOfCode/5-PrintQueue/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
